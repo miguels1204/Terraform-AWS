@@ -1,3 +1,4 @@
+#Deploying a VM in AWS using the terraform workflow
 provider "aws" {
   region = "us-east-1"
 }
